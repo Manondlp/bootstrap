@@ -1,0 +1,44 @@
+body{
+	font-family: "Open sans 300", sans-serif;
+}
+
+.text-center{
+	margin: 60px;
+}
+
+#banner{
+	background-image: url(images/banner-2.jpg);
+	background-size: cover;
+	color: white;
+	height: 600px;
+	padding-top: 100px;
+	padding-left: 40px;
+}
+
+#banner h1{
+	font-family: "Open sans 700", sans-serif;
+	font-size: 40px;
+	color:black;
+}
+
+#banner h5{
+	font-size:12px;
+}
+
+#banner h6{
+	font-size:12px;
+}
+
+#banner p{
+	font-size: 14px;
+	font-weight: 300;
+}
+
+#footer{
+	background:black;
+	padding: 20px;
+}
+
+#footer a{
+	font-size:12px;
+	color:white;
